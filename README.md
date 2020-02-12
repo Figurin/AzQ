@@ -13,5 +13,7 @@ Este repositorio tiene como objetivo almacenar queries de utilidad que podamos c
 *Tambien podemos modificiar los queries, dando clic al lapiz en caso de que queramos mejorarlo.
 ![](images/edit.PNG)
 
-*Despues de editar o crear un query nuevo, dejamos un "Commit", y una breve descripcion.
-**Un commit es un comentario pequeño hacerca de lo que estas haciendo, en este caso, <para que sirve el query>
+*Despues de editar o crear un query nuevo, nos desplazamos hacia abajo y dejamos un "Commit".
+Adicionalmente podemos dejar una breve descripcion.
+**Un commit es un comentario pequeño acerca de lo que estas haciendo, en este caso, para lo que sirve el query.
+![](images/commit.PNG)
