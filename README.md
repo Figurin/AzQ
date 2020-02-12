@@ -1,8 +1,14 @@
 # AzQ
-Queries for Rocket, Sas, Acces, Sql
-Este repositorio tiene como objetivo almacenar queries de utilidad que podamos compartir entre nosotros.
+
+**Informacion general.
+
+Si es la primera vez que visitas este repositorio, lee lo siguiente
+Este repositorio tiene como objetivo guardar y compartir queries de las diferentes plataformas que utilizamos los integrantes del equipo de Ingenieria.
+
+**El repositorio es privado y solo compartido entre integrantes del equipo.
 
 
+# Agregar queries
 *Podemos agregar nuevos queries, dando clic en Create new file:
 ![](images/nuevo.jpg)
 
