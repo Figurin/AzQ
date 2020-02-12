@@ -15,13 +15,15 @@ Como es un repositorio es una navegacion entre carpetas, clic en la carpeta que 
 *Podemos agregar nuevos queries, dando clic en Create new file:
 ![](images/nuevo.jpg)
 
-
+# Escribir el texto
 *Para cargar el query solo lo escribimos en el espacio que nos da la plataforma:
 ![](images/escribir.PNG)
 
+# Modificacion
 *Tambien podemos modificiar los queries, dando clic al lapiz en caso de que queramos mejorarlo.
 ![](images/edit.PNG)
 
+# Guardar cambios
 *Despues de editar o crear un query nuevo, nos desplazamos hacia abajo y dejamos un "Commit".
 Adicionalmente podemos dejar una breve descripcion.
 **Un commit es un comentario pequeño acerca de lo que estas haciendo, en este caso, para lo que sirve el query**
