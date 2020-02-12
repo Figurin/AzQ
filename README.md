@@ -1,12 +1,15 @@
 # AzQ
 
-**Informacion general.
+**Informacion general**
 
 Si es la primera vez que visitas este repositorio, lee lo siguiente
 Este repositorio tiene como objetivo guardar y compartir queries de las diferentes plataformas que utilizamos los integrantes del equipo de Ingenieria.
 
-**El repositorio es privado y solo compartido entre integrantes del equipo.
+**El repositorio es privado y solo compartido entre integrantes del equipo.**
 
+# Navegacion
+Como es un repositorio es una navegacion entre carpetas, clic en la carpeta que desees para entrar.
+![](images/nuevo.jpg)
 
 # Agregar queries
 *Podemos agregar nuevos queries, dando clic en Create new file:
@@ -21,5 +24,5 @@ Este repositorio tiene como objetivo guardar y compartir queries de las diferent
 
 *Despues de editar o crear un query nuevo, nos desplazamos hacia abajo y dejamos un "Commit".
 Adicionalmente podemos dejar una breve descripcion.
-**Un commit es un comentario pequeño acerca de lo que estas haciendo, en este caso, para lo que sirve el query.
+**Un commit es un comentario pequeño acerca de lo que estas haciendo, en este caso, para lo que sirve el query**
 ![](images/commit.PNG)
