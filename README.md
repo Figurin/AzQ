@@ -9,7 +9,7 @@ Este repositorio tiene como objetivo guardar y compartir queries de las diferent
 
 # Navegacion
 Como es un repositorio es una navegacion entre carpetas, clic en la carpeta que desees para entrar.
-![](images/nuevo.jpg)
+![](images/carpetas.PNG)
 
 # Agregar queries
 *Podemos agregar nuevos queries, dando clic en Create new file:
