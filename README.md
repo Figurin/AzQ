@@ -1,4 +1,4 @@
-# AzQ
+# Instrucciones
 
 **Informacion general**
 
@@ -28,3 +28,8 @@ Como es un repositorio es una navegacion entre carpetas, clic en la carpeta que 
 Adicionalmente podemos dejar una breve descripcion.
 **Un commit es un comentario pequeño acerca de lo que estas haciendo, en este caso, para lo que sirve el query**
 ![](images/commit.PNG)
+
+# Regresar
+*Clic en las carpetas para moverte.
+**Clic en la carpeta principal para regresar a la carpeta raiz.**
+![](images/navegacion.PNG)
