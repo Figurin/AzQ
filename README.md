@@ -1,14 +1,13 @@
 # Instrucciones
 
-**Informacion general**
+**Si es la primera vez que visitas este repositorio, lee lo siguiente
+Este repositorio tiene como objetivo guardar y compartir queries de las diferentes plataformas que utilizamos los integrantes del equipo de Ingenieria.**
 
-Si es la primera vez que visitas este repositorio, lee lo siguiente
-Este repositorio tiene como objetivo guardar y compartir queries de las diferentes plataformas que utilizamos los integrantes del equipo de Ingenieria.
-
-**El repositorio es privado y solo compartido entre integrantes del equipo.**
+**-El repositorio es privado y solo compartido entre integrantes del equipo-**
 
 # Navegacion
-Como es un repositorio es una navegacion entre carpetas, clic en la carpeta que desees para entrar.
+-Un repositorio maneja una navegacion entre carpetas similar a la navegacion en Windows.
+-Clic en la carpeta que desees para entrar.
 ![](images/nombre_nuevo.PNG)
 
 # Agregar queries
