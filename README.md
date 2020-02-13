@@ -3,18 +3,12 @@
 **Si es la primera vez que visitas este repositorio, lee lo siguiente
 Este repositorio tiene como objetivo guardar y compartir queries de las diferentes plataformas que utilizamos los integrantes del equipo de Ingenieria.**
 
-*Italica*
-_intalica con **bold**_
-* punto 1
-* punto 2
-  * punto 2.1
-
 **-El repositorio es privado y solo compartido entre integrantes del equipo-**
 
 ## Navegacion
 * Un repositorio maneja una navegacion entre carpetas similar a la navegacion en Windows
 * Clic en la carpeta que desees para entrar
-![](images/nombre_nuevo.PNG)
+![](images/%100nombre_nuevo.PNG)
 
 ## Agregar queries
 * Podemos agregar nuevos queries, dando clic en Create new file
