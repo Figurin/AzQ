@@ -1,0 +1,2 @@
+SELECT * FROM Z_ANTICIPADO 
+WHERE(fecha = (select max(fecha) as f FROM Z_ANTICIPADO))
