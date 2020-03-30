@@ -1,4 +1,0 @@
-# EXAMPLE
-
-UPDATE informix_a_location SET loc_lock = 'L'
-WHERE loc_code = 'HUB0001R';
