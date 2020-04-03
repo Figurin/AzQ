@@ -1,0 +1,32 @@
+SELECT 
+informix_a_location.loc_code,
+informix_loc_hist.lh_whse, 
+informix_loc_hist.lh_zone, 
+informix_loc_hist.lh_strm, 
+informix_loc_hist.lh_loc_code, 
+informix_loc_hist.lh_part, 
+informix_loc_hist.lh_lot, 
+informix_loc_hist.lh_serno, 
+informix_loc_hist.lh_unit_measure, 
+informix_loc_hist.lh_eaches_per_unit, 
+informix_loc_hist.lh_unit_price, 
+informix_loc_hist.lh_unit_qty_adj, 
+informix_loc_hist.lh_end_balance, 
+informix_loc_hist.lh_rtype, 
+informix_loc_hist.lh_rtype_sub, 
+informix_loc_hist.lh_userid, 
+informix_loc_hist.lh_date, 
+informix_loc_hist.lh_ims_trnum, 
+informix_loc_hist.lh_trnum, 
+informix_loc_hist.lh_otd_id
+FROM informix_a_location INNER JOIN informix_loc_hist ON informix_a_location.loc_code = informix_loc_hist.lh_loc_code
+WHERE(
+format(informix_loc_hist.lh_date, 'yyyy-MM-dd') >= @fecha AND
+informix_a_location.loc_type = 'SLOT' AND
+informix_loc_hist.lh_unit_qty_adj > 0 AND 
+(
+(informix_loc_hist.lh_rtype = 'H' AND informix_loc_hist.lh_rtype_sub = 'M') OR 
+(informix_loc_hist.lh_rtype = 'M' OR informix_loc_hist.lh_rtype_sub = 'A')
+)
+) 
+ORDER BY informix_loc_hist.lh_date ASC
