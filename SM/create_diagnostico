@@ -1,0 +1,4 @@
+CREATE TABLE DIAGNOSTICO(
+id autoincrement primary key,
+descripcion Varchar(50)
+)
