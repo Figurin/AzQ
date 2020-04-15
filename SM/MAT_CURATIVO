@@ -1,0 +1,4 @@
+CREATE TABLE MAT_CURATIVO(
+id autoincrement primary key,
+descripcion Varchar(50)
+)
