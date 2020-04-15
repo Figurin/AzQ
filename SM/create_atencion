@@ -1,0 +1,5 @@
+create table ATENCION(
+id autoincrement primary key,
+tipo Varchar(25),
+descripcion Varchar(50)
+)
